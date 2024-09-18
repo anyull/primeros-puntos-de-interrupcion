@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(223, 179, 219);
+}
+.altura1 {
+    height: 80px;
+    background-color: #F804B6;
+}
+.altura2 {
+    height: 180px;
+    background-color: #FD5AD1;
+}
+.altura3 {
+    height: 180px;
+    background-color: #F804B6;
+}
+.altura4 {
+    height: 260px;
+    background-color: #A03784;
+}
+.altura5 {
+    height: 260px;
+    background-color: #FD5AD1;
+}
